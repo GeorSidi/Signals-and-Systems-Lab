@@ -1,4 +1,5 @@
 Infos
+Part1:
 Lab1:
   ask1. Data types in MATLAB/Octave and arithmetic operations.
   ask2. Plotting of continuous and discrete signals.
@@ -17,3 +18,7 @@ lab4:
 lab5:
   ask1.Transfer function of a discrete-time system
   ask2.Pole location and system stability
+Part2:
+  Lab 1. AM/FM Modulation
+  Lab 2. Digital modulation BPAM (Binary Pulse Amplitude Modulation).
+  Lab 3. Digital modulation QPSK (Quadrature Phase Shift Keying).
