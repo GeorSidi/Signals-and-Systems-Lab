@@ -1,5 +1,5 @@
 Infos
-Part1:
+Part1: \n
 Lab1:
   ask1. Data types in MATLAB/Octave and arithmetic operations.
   ask2. Plotting of continuous and discrete signals.
